@@ -1,4 +1,6 @@
 * Advent of Code 2018
 ** Day 1: Chronal Calibration
-I learned how to use resizable arrays properly in common lisp, and
-also the LOOP macro.
+I learned the following things about common lisp:
+- How to use resizable arrays properly.
+- Basic LOOP macro skills. (Basically a DSL)
+- The reduce function.
